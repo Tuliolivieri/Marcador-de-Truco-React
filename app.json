@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Marcador-de-Truco-React",
+    "name": "Marcador de Truco",
     "slug": "Marcador-de-Truco-React",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.tuliolivieri.marcadordetrucorn",
+      "versionCode": 1
     }
   }
 }
